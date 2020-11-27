@@ -1,6 +1,7 @@
 # QARiB: QCRI Arabic and Dialectal BERT
 
 ## About QARiB
+<img src="./Qarib_logo.png" width="100" align="left"/>
 QCRI Arabic and Dialectal BERT  (QARiB) model, was trained on a collection of ~ 420 Million tweets and ~ 180 Million sentences of text.
 For Tweets, the data was collected using twitter API and using language filter. `lang:ar`. For Text data, it was a combination from
 [Arabic GigaWord](url), [Abulkhair Arabic Corpus]() and [OPUS](http://opus.nlpl.eu/).
