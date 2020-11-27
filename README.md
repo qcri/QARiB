@@ -6,7 +6,7 @@ QCRI Arabic and Dialectal BERT  (QARiB) model, was trained on a collection of ~ 
 For Tweets, the data was collected using twitter API and using language filter. `lang:ar`. For Text data, it was a combination from
 [Arabic GigaWord](url), [Abulkhair Arabic Corpus]() and [OPUS](http://opus.nlpl.eu/).
 
-QARiB: Is Arabic name for "Boat".
+QARiB: Is the Arabic name for "Boat".
 
 
 
